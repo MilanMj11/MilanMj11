@@ -31,6 +31,6 @@
 </div>
 
 <h3 align="center"> Stats: </h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milanmj11&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="milanmj11.1" width="293" height="193" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milanmj11&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="milanmj11.1" width="393" height="293" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milanmj11&show_icons=true&locale=en&theme=github_dark" alt="milanmj11.2" /></p>
