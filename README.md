@@ -24,6 +24,6 @@
 
 
 <h3 align="left"> Stats: </h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milanmj11&show_icons=true&locale=en&layout=compact" alt="milanmj11.1" width="394" height="194"  /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milanmj11&show_icons=true&locale=en&layout=compact" alt="milanmj11.1"  /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milanmj11&show_icons=true&locale=en" alt="milanmj11.2" /></p>
