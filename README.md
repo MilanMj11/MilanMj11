@@ -1,4 +1,4 @@
-<h1 align="center">🎮 Hello, I'm Milan </h1>
+<h1 align="center">💻 Hello, I'm Milan </h1>
 <p align="center">
 
 👨‍💻 A dedicated student and programming enthusiast, I have a profound interest in technology and a knack for problem-solving. 
