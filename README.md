@@ -7,7 +7,7 @@
 
 🎮 Beyond coding, I find joy in the world of PC gaming and am particularly attracted by the intricacies of PC setups, especially keyboards. It's not just a hobby, it's an exploration of how technology enhances experiences. 
 
-👾 With a background in solving complex problems, I bring a strong analytical mindset to the table. For me, addressing challenges is not just a task; it's an opportunity to demonstrate effective problem-solving.
+👾 With a background in solving complex problems, I bring a strong analytical mindset to the table. For me, addressing challenges is not just a task, it's an opportunity to demonstrate effective problem-solving.
 </p>
 
 
