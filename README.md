@@ -3,9 +3,9 @@
 
 👨‍💻 A dedicated student and programming enthusiast, I have a profound interest in technology and a knack for problem-solving. 
 
-🚀 Constantly exploring the ever-evolving landscape of programming, I bring a keen eye for detail and a passion for continuous learning to every project. My goal is to not just write code, but to craft elegant and effective solutions.
+🚀 Constantly exploring the ever-evolving landscape of programming, I bring a keen eye for detail and a passion for continuous learning to every project. My aim is to create code that is both elegant and efficient.
 
-🎮 Beyond coding, I find joy in the world of PC gaming and am particularly attracted by the intricacies of PC setups, especially keyboards. It's not just a hobby, it's an exploration of how technology enhances experiences. 
+🎮 Beyond coding, I find joy in the world of PC gaming and am particularly attracted by the intricacies of PC setups, especially keyboards. It is a hobby, but it's also an exploration of how technology evolves and enhances experiences. 
 
 👾 With a background in solving complex problems, I bring a strong analytical mindset to the table. For me, addressing challenges is not just a task, it's an opportunity to demonstrate effective problem-solving.
 </p>
