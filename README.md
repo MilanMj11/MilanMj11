@@ -1,13 +1,13 @@
 <h1 align="center">💻 Hello, I'm Milan </h1>
 <p align="center">
 
-👨‍💻 A dedicated student and programming enthusiast, I have a profound interest in technology and a knack for problem-solving. 
+👨‍💻 I'm a dedicated student and programming enthusiast with a passion for technology and problem-solving.
 
-🚀 Constantly exploring the ever-evolving landscape of programming, I bring a keen eye for detail and a passion for continuous learning to every project. My aim is to create code that is both elegant and efficient.
+🚀 I love exploring the ever-evolving world of programming, aiming to write code that is both elegant and efficient. I'm constantly learning and paying attention to detail in every project.
 
-🎮 Beyond coding, I find joy in the world of PC gaming and am particularly attracted by the intricacies of PC setups, especially keyboards. It is a hobby, but it's also an exploration of how technology evolves and enhances experiences. 
+🎮 I'm also interested in game development and enjoy PC gaming. I have a special interest in PC setups, especially keyboards, as a hobby and a way to explore how technology enhances experiences.
 
-👾 With a background in solving complex problems, I bring a strong analytical mindset to the table. For me, addressing challenges is not just a task, it's an opportunity to demonstrate effective problem-solving.
+📦 I enjoy collecting various items, particularly collectible cards. This hobby allows me to appreciate the details and uniqueness of each item.
 </p>
 
 
