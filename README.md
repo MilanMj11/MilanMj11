@@ -3,8 +3,6 @@
 
 I'm really into game development because it combines my interest in games, art, and programming.
 
-I'm constantly exploring new aspects of technology and how it can improve our daily lives.
-
 I enjoy collecting all kinds of things, especially MTG cards, appreciating the strategy and creativity behind them.
 </p>
 
